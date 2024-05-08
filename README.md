@@ -1,1 +1,2 @@
 # ROBOT_GUI
+Para acceder al código de este programa, debes dirigirte al repositorio de GitHub en el siguiente enlace: https://github.com/mabel1042/ROBOT_GUI.git. Este repositorio contiene el código fuente completo del programa que simula el control de robots con una interfaz gráfica en tkinter, incluyendo la funcionalidad para gestionar la batería, ejecutar acciones y ver el historial de acciones realizadas por cada robot. 
